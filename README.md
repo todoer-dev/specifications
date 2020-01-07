@@ -4,10 +4,7 @@ Todoer - это сайт предназначенный для создания 
 
 ### Requirements: ([Ru](https://github.com/todoer-dev/specifications/blob/master/Documentation/Requirements/Requirements.md))
 
-### UML Diagrams: ([Ru]())
+### UML Diagrams: ([Ru](https://github.com/todoer-dev/specifications/blob/master/Documentation/Diagrams/UML_Diagrams.md))
 
 ### Mockups: ([RU](https://github.com/todoer-dev/specifications/blob/master/Documentation/Mockups/Mockups.md))
 
-### Test Plan: ([RU]())
-
-### Test Result: ([RU]())
