@@ -8,3 +8,4 @@ Todoer - это сайт предназначенный для создания 
 
 ### Mockups: ([RU](https://github.com/todoer-dev/specifications/blob/master/Documentation/Mockups/Mockups.md))
 
+### Presentation: ([RU](https://github.com/todoer-dev/specifications/blob/master/Presentation/Todoer-dev.pptx))
